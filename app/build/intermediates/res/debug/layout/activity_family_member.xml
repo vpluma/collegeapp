@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/fragmentContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+</LinearLayout><!-- From: file:/C:/Users/wdumas/Documents/GitHub/CSA/Curriculum/Unit1/Lesson1.4/Internal/1.4.1AKCollegeApp/CollegeApp/app/src/main/res/layout/activity_family_member.xml -->
